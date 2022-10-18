@@ -1,0 +1,18 @@
+img {
+    width: 200px;
+    height: 200px;
+}
+
+#imgCtn{
+    width: 200px;
+    margin: 0;
+}
+
+#img-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+li{
+    list-style: none;
+}
